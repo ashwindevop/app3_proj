@@ -12,4 +12,6 @@ main()
  print("%d",c);
  printf("%d",d);
  printf("%d",f);
+ printf("Example of git fetch");
+ printf("Example of git merge");
 }
